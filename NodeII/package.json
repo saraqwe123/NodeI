@@ -1,0 +1,14 @@
+{
+  "name": "nodeii",
+  "version": "1.0.0",
+  "description": "Aula de express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sara Guaiume",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
